@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/css/bootstrap.min.css" integrity="sha384-VCmXjywReHh4PwowAiWNagnWcLhlEJLA5buUprzK8rxFgeH0kww/aWY76TfkUoSX" crossorigin="anonymous">
+<body style="background-color: antiquewhite;">
+      </body>
+      
+<link href="https://fonts.googleapis.com/css2?family=Beth+Ellen&family=Concert+One&family=Lobster+Two:ital@1&family=Shrikhand&display=swap" rel="stylesheet">
+<!-- FONT CHANGE ABOVE. COPY AND PASTE FROM GOOGLE FONTS!     -->
+      
+      
+      
+      
+    <title>J115 Final Project</title>
+    <style>
+        h4 {font-family: 'Shrikhand', cursive;
+        }
+        
+        
+        
+        .jumbotron {background-color:darksalmon;
+        }
+/*    JUMBOTRON = THE HEADING THINGY. UPDATE AND CHANGE IF YOU WANT*/
+/*.jumbotron{
+            background-image: url(http://placekitten.com/400/300);
+            background-size: cover;
+            background-position: center;
+            overflow: hidden;
+        }
+ ^^ code if you want to add a background image
+        
+        BACKGROUND-SIZE:CONTAIN; !!! to contain image*/
+        
+                
+ 
+        
+        h2 {font-family: 'Lobster Two', cursive;
+        }
+        
+        p{font-family: 'Arimo', Arial, serif;
+        }
+        
+        h3{font-family: 'Lobster Two', cursive;
+        }
+        h4{font-family: 'Concert One', cursive, color:black;
+        }
+        
+        
+        
+        
+        
+    </style>
+  </head>
+    
+    
+    
+
+  
+    <body>
+      
+
+    <header class="jumbotron">
+        <h4 class="text-center display-3">Homesick Recipes</h4>
+        <p class="lead text-center">Reconnecting to my culture in the Bay Area</p>
+    </header>
+      
+      
+      
+    <div class="container">
+        
+        
+        
+        
+        <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+                <h2 class="text-center">Finding Recipes </h2>
+<!-- You can erase the "class="text-center" on h2 and p below if you don't want it centered! -->
+                <p>When I moved up to attend UC Berkeley I had three worries. One, that I would get lost on the bus (which admittedly happened two times). Two, that I would not meet any friends (being a late transfer student). Three, that I would not find any good Mexican restaurants here. After searching for a year now, I have come to the conclusion that there are decent places to get authentic Mexican food in Berkeley...but nothing beats calling your mom up to hear her voice, and getting some of her recipes.</p>
+              <container>
+                <center>
+                <img class="d-block img-fluid" src="https://media.journalism.berkeley.edu/upload/2020/08/1597122051308f5ec.jpg" width="400" height="350" alt="Text interview with Elena"> 
+                </center>
+                    </container>
+            </div>
+            </div>
+        </div>  
+      
+     <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+                <h3 class="text-center">Calling Elena </h3>
+<!-- You can erase the "class="text-center" on h2 and p below if you don't want it centered! -->
+                <p>I wish there was a way to let my family back at home taste how my meals came out. Though I always text my mom about how they turned out or Facetime to make sure the consistency is okay, I cannot wait to go back home to Southern California and cook my mom a meal from one of her own recipes.</p>
+                
+                <img class="d-block img-fluid" src="https://media.journalism.berkeley.edu/upload/2020/08/159712232578923c2.png" alt="Pinterest pictures"> 
+            </div>
+        </div>  
+        <!--If you want any space in the text you have to create (and make sure to close) a <p> </p> tag      -->
+<!--        Make sure to access the CSS quicklinks provided by Rue-->
+        
+        
+         
+        <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+                <p>Whoever said cooking would be easy (my mom) was a liar! Cooking takes time and effort. Though there are fun moments like smelling familiar smells, there are often frustrating mistakes. So far I have made tortas de milanesa, posole, sopes, tinga, pork with green salsa, mexican elotes, carne asada, and huevos con nopales. The most recent one was tortas, which though the timelapse makes it look easy, clean, and fast- took over an hour. </p>
+            </div>
+
+           <iframe src="https://player.vimeo.com/video/446637144" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+        </div>
+        
+        
+        
+        
+        
+        <div class="row justify-content-center mb-5">
+            <div class="col-12 col-md-10">
+                <p>One essential part of curing my homesickness is to not only cook Mexican meals, but to  include a soundtrack that takes me to the environment that is my mom's kitchen. Cumbias crooning about love and loss always fill my home while there is cooking being conducted. Due to this, I made a playlist on all the music that is essential to my mom's recipe process and any Mexican party.</p>
+            </div>
+
+        
+            <center> 
+            <iframe src="https://open.spotify.com/embed/playlist/2N3vojVaXhODsjA1zlyYtM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+      </center>
+       
+        
+        <center>
+     <img class="d-block img-fluid" src="https://media.journalism.berkeley.edu/upload/2020/08/15971257846539322.png" width="75%" height="380"alt="Tinga recipe"> 
+        
+         </center>
+            <div class="row justify-content-center mb-5">
+            
+          
+            <center> 
+        <img class="d-block img-fluid" src="https://media.journalism.berkeley.edu/upload/2020/08/1597210960395c524.png" width= "390" height="390" alt="Interview"> 
+       </center>
+                
+                
+            
+                
+            <div class="col-12 col-md-10">
+                <p><p> 
+                    Overall, learning to cook my mom's recipes taught me that the "second shift" is often taken for granted. She never failed to cook us meals every day after working as a housekeeper. This process has made me appreciate her even more than I thought possible. She is truly an inspiration and a powerhouse of a woman. If interested in more in-depth recipes- feel free to reach me via Instagram or Twitter @ufosteph.</p>
+            </div>       
+            </div>
+<!--      put in mt-5 and mb-5 to add spacings between videos   -->
+        
+    </div>
+    
+            
+         
+        
+         
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.1/js/bootstrap.min.js" integrity="sha384-XEerZL0cuoUbHE4nZReLT7nx9gQrQreJekYhJD9WNWhH8nEW+0c5qq7aIo2Wl30J" crossorigin="anonymous"></script>
+            
+      </body>
+            
+</html>
